@@ -1,0 +1,2 @@
+Date and time[ms]; Stamp; Direction[In, Out, Undefined]; Source; Destination; Message Id; Length; Status for Tx; Data;
+22_08_13 01:22:25.312;6;I;2;1;4216;66;;0c15de14ae1103000100ff00540000001e0000000000f9fff9fff9fff9ff31200000cc1e7a090100cdfcf6624d140302ff7e2007cf0ecdfcf662140901001f00f41e
